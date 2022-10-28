@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="launch_program" type="launch_node" name="program_node" output="screen">
+       
+    </node>  
+
+</launch>
